@@ -1,8 +1,8 @@
-# Hats-Chat
+# Rusty-Chat
 
-Hats Chat is a simple web based chat app writen in rust.
+Rusty Chat is a simple web based chat app writen in rust.
 
-## The HATS Web Stack
+## The Web Stack
 
 - Htmx
   - Htmx is used for client side reactivity.
