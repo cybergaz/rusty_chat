@@ -34,4 +34,6 @@ askama_axum = "0.3.0"
 hex = "0.4.3"
 image = { version = "0.24.6", features = ["avif"] }
 lettre = { version = "0.10.4", features = ["tokio1", "tracing", "tokio1-native-tls"] }
+colored = "2.1.0"
+
 
